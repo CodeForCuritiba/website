@@ -67,7 +67,6 @@
 
     /* Carousel base class */
     .carousel {
-      margin-bottom: 60px;
       background-image: url(../images/dayton-top.jpg);
       background-size: cover;
     }
@@ -236,7 +235,7 @@
       .carousel .container {
 
       }
-      
+
       .carousel-caption {
         margin-bottom: 20px;
       }
