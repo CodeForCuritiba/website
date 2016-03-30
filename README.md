@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CodeForBrazil/CodeForCuritiba_website.png?label=ready&title=Ready)](https://waffle.io/CodeForBrazil/CodeForCuritiba_website)
 http://codefordayton.org
 ===================
 
